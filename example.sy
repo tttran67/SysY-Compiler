@@ -1,0 +1,9 @@
+int main()
+{
+    int i;
+    int m;
+    m = 1478;
+    int t;
+    
+    return 0;
+}
